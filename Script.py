@@ -17,22 +17,22 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 <b>ᴅᴇᴠ: <a herf=https://t.me/ruban9124>RUBAN</a></b>"""
 
     
-    MORE_FROM_US = """<b>Main channel
-@TMP_LINKz
+    MORE_FROM_US = """<b>
+    
+✵Main channel
+ ⪼ @TMP_LINKz
 
 ✵ TMP Movies channel #2
+ ⪼ https://t.me/+5_EKeHnnPR82NDU1
 
-⪼ https://t.me/+5_EKeHnnPR82NDU1
-
-TMP MOVIES channel #3
-https://t.me/+qhO_HouXvxY1M2Rl
-
+✵ TMP MOVIES channel #3
+ ⪼ https://t.me/+qhO_HouXvxY1M2Rl
 
 ✵ Tamil movies backup 
-⪼ https://t.me/+vzcOq-rYa3cyMzll
+ ⪼ https://t.me/+vzcOq-rYa3cyMzll
 
 ✵ Tamil dub movies backup
-⪼ https://t.me/+-niX57ymJ2RlYzFl
+ ⪼ https://t.me/+-niX57ymJ2RlYzFl
 
 ✵  TMP Series backup 
  ⪼  https://t.me/+LA39V_Kti_5kMjE1
