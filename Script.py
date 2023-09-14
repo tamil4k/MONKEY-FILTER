@@ -18,8 +18,6 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 
     
     MORE_FROM_US = """<b>Main channel
-@TMP_LINKz</b>
-<b>Main channel
 @TMP_LINKz
 
 ✵ TMP Movies channel #2
