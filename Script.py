@@ -18,30 +18,25 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 
     
     MORE_FROM_US = """<b>
-    
-✵Main channel
- ⪼ @TMP_LINKz
 
-✵ TMP Movies channel #2
- ⪼ https://t.me/+5_EKeHnnPR82NDU1
 
-✵ TMP MOVIES channel #3
- ⪼ https://t.me/+qhO_HouXvxY1M2Rl
+✵ Main channel ⪼ @TMP_LINKz
 
-✵ Tamil movies backup 
- ⪼ https://t.me/+vzcOq-rYa3cyMzll
+✵ <a herf=https://t.me/+5_EKeHnnPR82NDU1>TMP Movies channel #2🎉</a>
 
-✵ Tamil dub movies backup
- ⪼ https://t.me/+-niX57ymJ2RlYzFl
+✵ <a herf=https://t.me/+qhO_HouXvxY1M2Rl>TMP MOVIES channel #3 ❤️</a>
 
-✵  TMP Series backup 
- ⪼  https://t.me/+LA39V_Kti_5kMjE1
+✵ <a herf=https://t.me/+vzcOq-rYa3cyMzll>Tamil movies backup 🌟</a> 
 
-✵  HQpredvd Movies 
- ⪼ https://t.me/+qf3O4nn-fmJhNzll
+✵ <a herf=https://t.me/+-niX57ymJ2RlYzFl>Tamil dub movies backup 🔥</a>
 
-✵ Movie request group
- ⪼ https://t.me/+WHiKJ1KzJRo0ZGE1</b>"""
+✵ <a herf=https://t.me/+LA39V_Kti_5kMjE1>TMP Series backup 💫</a> 
+
+✵ <a herf=https://t.me/+qf3O4nn-fmJhNzll>HQpredvd Movies ❣️</a> 
+
+✵ <a herf=https://t.me/+WHiKJ1KzJRo0ZGE1>Movie request group 🥰</a>
+
+</b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
