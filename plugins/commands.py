@@ -35,6 +35,8 @@ async def start(client, message):
             ],[
             InlineKeyboardButton("Sᴇᴀʀᴄʜ 🔎", switch_inline_query_current_chat=''), 
             InlineKeyboardButton("Group 🔈", url="https://t.me/+WHiKJ1KzJRo0ZGE1")
+            ],[ 
+            InlineKeyboardButton("🕸️MORE FROM US 🔈", callback_data="morefromus")
             ],[      
             InlineKeyboardButton("Hᴇʟᴩ 🕸️", callback_data="help"),
             InlineKeyboardButton("Aʙᴏᴜᴛ ✨", callback_data="about")
@@ -71,6 +73,8 @@ async def start(client, message):
             ],[
             InlineKeyboardButton("Sᴇᴀʀᴄʜ 🔎", switch_inline_query_current_chat=''), 
             InlineKeyboardButton("Group 🔈", url="https://t.me/+WHiKJ1KzJRo0ZGE1")
+            ],[ 
+            InlineKeyboardButton("🕸️MORE FROM US 🔈", callback_data="morefromus")
             ],[      
             InlineKeyboardButton("Hᴇʟᴩ 🕸️", callback_data="help"),
             InlineKeyboardButton("Aʙᴏᴜᴛ ✨", callback_data="about")
