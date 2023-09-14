@@ -16,6 +16,35 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     SOURCE_TXT = """<b>NOTE:</b>
 <b>ᴅᴇᴠ: <a herf=https://t.me/ruban9124>RUBAN</a></b>"""
 
+    
+    MORE_FROM_US = """<b>Main channel
+@TMP_LINKz</b>
+<b>Main channel
+@TMP_LINKz
+
+✵ TMP Movies channel #2
+
+⪼ https://t.me/+5_EKeHnnPR82NDU1
+
+TMP MOVIES channel #3
+https://t.me/+qhO_HouXvxY1M2Rl
+
+
+✵ Tamil movies backup 
+⪼ https://t.me/+vzcOq-rYa3cyMzll
+
+✵ Tamil dub movies backup
+⪼ https://t.me/+-niX57ymJ2RlYzFl
+
+✵  TMP Series backup 
+ ⪼  https://t.me/+LA39V_Kti_5kMjE1
+
+✵  HQpredvd Movies 
+ ⪼ https://t.me/+qf3O4nn-fmJhNzll
+
+✵ Movie request group
+ ⪼ https://t.me/+WHiKJ1KzJRo0ZGE1</b>"""
+
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
 <i>Bʏ Usɪɴɢ Tʜɪs Mᴏᴅᴜʟᴇ Yᴏᴜ Cᴀɴ Sᴛᴏʀᴇ Fɪʟᴇs Iɴ Mʏ Dᴀᴛᴀʙᴀsᴇ Aɴᴅ I Wɪʟʟ Gɪᴠᴇ Yᴏᴜ A Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ  Tᴏ Aᴄᴄᴇss Tʜᴇ Sᴀᴠᴇᴅ Fɪʟᴇs. Iғ Yᴏᴜ Wᴀɴᴛ Tᴏ Aᴅᴅ Fɪʟᴇs Fʀᴏᴍ A Pᴜʙʟɪᴄ Cʜᴀɴɴᴇʟ Sᴇɴᴅ Tʜᴇ Fɪʟᴇ Lɪɴᴋ Oɴʟʏ  Oʀ Yᴏᴜ Wᴀɴᴛ Tᴏ Aᴅᴅ Fɪʟᴇs Fʀᴏᴍ A  Pʀɪᴠᴀᴛᴇ Cʜᴀɴɴᴇʟ Yᴏᴜʀ Mᴜsᴛ Mᴀᴋᴇ Mᴇ Aᴅᴍɪɴ Oɴ Tʜᴇ Cʜᴀɴɴᴇʟ Tᴏ Aᴄᴄᴇss Fɪʟᴇs</i>
