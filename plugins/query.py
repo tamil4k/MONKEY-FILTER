@@ -433,6 +433,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton("Sᴇᴀʀᴄʜ 🔎", switch_inline_query_current_chat=''), 
             InlineKeyboardButton("Group 🔈", url="https://t.me/+WHiKJ1KzJRo0ZGE1")
+            ],[ 
+            InlineKeyboardButton("🕸️MORE FROM US 🔈", callback_data="morefromus")
             ],[      
             InlineKeyboardButton("Hᴇʟᴩ 🕸️", callback_data="help"),
             InlineKeyboardButton("Aʙᴏᴜᴛ ✨", callback_data="about")
@@ -456,6 +458,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('« Bᴀᴄᴋ', 'start')           
         ]]
         await query.edit_message_media(InputMediaPhoto(random.choice(PICS), script.HELP_TXT.format(query.from_user.mention), enums.ParseMode.HTML), reply_markup=InlineKeyboardMarkup(buttons))     
+       
+    
+    elif query.data == "morefromus":
+        buttons = [[
+            InlineKeyboardButton('✘ Cʟᴏꜱᴇ', 'close_data'),
+            InlineKeyboardButton('« Bᴀᴄᴋ', 'start')           
+        ]]
+        await query.edit_message_media(InputMediaPhoto(random.choice(PICS), script.MORE_FROM_US.format(query.from_user.mention), enums.ParseMode.HTML), reply_markup=InlineKeyboardMarkup(buttons))     
         
     elif query.data == "about":
         buttons= [[
